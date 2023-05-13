@@ -1,5 +1,4 @@
-👋 Hi, I’m Shashidhar
-<h1>Shashidhar</h1>
+<h1>👋 Hi, I’m Shashidhar</h1>
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
