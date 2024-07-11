@@ -7,7 +7,7 @@ Android development for upcoming projects.</p>
 <ul> 
   <li>I'm based in Bangalore.</li>
   <li>You can contact me at <a href="">shashidhar.vshashi@gmail.com</a></li>
-  <li>Currently Working as Android Developer in JumpStart Technologies Pvt, Ltd</li>
+  <li>Currently Working as <h2>Android Developer</h2> in <h2>JumpStart Technologies Pvt, Ltd</h2></li>
 </ul>
 
 <h2>Skills</h2>
