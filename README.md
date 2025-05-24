@@ -1,15 +1,23 @@
-<h1>👋 Hi, I’m Shashidhar</h1>
+# 👋 Hi, I’m Shashidhar
 
-<p>An experienced Android Developer with over one year of hands-on experience developing and maintaining mobile 
-applications. Possesses expertise in developing mobile applications with Java, Kotlin, and XML, along with knowledge 
-of popular libraries and frameworks. Excited to leverage technical skills and a creative mind-set to deliver exceptional 
-Android development for upcoming projects.</p>
-<ul> 
-  <li>I'm based in Bangalore.</li>
-  <li>You can contact me at <a href="">shashidhar.vshashi@gmail.com</a></li>
-  <li>Currently Working as <spam>Android Developer</spam> in JumpStart Technologies Pvt, Ltd</li>
-</ul>
+Innovative and results-driven Android Developer with 2 years of experience designing, building, and maintaining scalable B2B and B2C mobile applications. Proficient in Java, Kotlin, and Jetpack Compose with deep expertise in MVVM architecture, Room DB, Retrofit, and Firebase. Proven track record of enhancing performance, boosting app stability, and delivering high-quality features aligned with business goals. Played a pivotal role in improving end-user experience and operational efficiency through automation, analytics, and UI/UX revamps.
 
-<h2>Skills</h2>
-<h4>JAVA, SQL, Kotlin, XML, HTML, Springs, Spring boot, GitHub</h4>
+---
+
+- I'm based in Bangalore.
+- You can contact me at [Email](shashidhar.vshashi@gmail.com)
+- Currently Working as **Android Developer** in JumpStart Technologies Pvt, Ltd.
+
+---
+
+## Skills
+- **Languages**: Kotlin, Java
+- **Architecture**: MVVM
+- **Frameworks & Libraries**: Jetpack Compose, Material 3, Hilt, WorkManager, Retrofit2, Firebase, Room DB, Coroutines
+- **DevOps & Tools**: ADB, FFmpegKit, Git, Crashlytics, OneSignal, Media3, DataStore Preferences
+- **Services**: Firebase Cloud Messaging, AWS S3 (video uploads), Socket.io
+- **UI/UX**: XML Design, Jetpack Presenters, Custom Fragment Dialogs
+- **Debugging & Optimization**: Performance tuning, Crash monitoring, Legacy code refactoring
+- **Testing & Deployment**: Play Store deployment, GitHub versioning, QA/UAT support
+
 
