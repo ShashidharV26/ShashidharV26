@@ -110,11 +110,11 @@ Image-based attendance, location-aware uploads to **AWS**, device diagnostics
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashidharV26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashidharV26&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashidharV26&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
@@ -122,9 +122,9 @@ Image-based attendance, location-aware uploads to **AWS**, device diagnostics
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="mailto:shashidhardeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:shashidhar.vshashi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shashidhar-android-developer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://github.com/yourusername](https://github.com/ShashidharV26)"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
