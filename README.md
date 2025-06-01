@@ -54,7 +54,7 @@
 _Remote Device Control for Android TV Buses_  
 **Highlights:**  
 Push command control, ADB shell automation, real-time screen sharing using **Socket.io** and **MediaProjection API**  
-🔗 [GitHub Repo](https://github.com/yourusername/office-connect)  
+🔗 [GitHub Repo](https://github.com/ShashidharV26/Office-Connect)  
 
 ---
 
@@ -62,14 +62,14 @@ Push command control, ADB shell automation, real-time screen sharing using **Soc
 _Offline B2C OTT App for Bus Travelers_  
 **Highlights:**  
 Local server streaming via **Raspberry Pi**, no-internet movie viewing, dynamic ads, YouTube integration  
-📱 [Google Play](https://play.google.com/store/apps/details?id=your.package.name) | 💻 [GitHub Repo](https://github.com/yourusername/touring-talkies)
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.touringtalkies.mobileapplication&pcampaignid=web_share) | 💻 [GitHub Repo](https://github.com/ShashidharV26/Touring-Talkies)
 
 ---
 
 #### 📺 iSmart OTT TV App  
 **Highlights:**  
 Android TV app with mixed local/online content — YouTube, movies, OTT Play integration, games  
-🔗 [GitHub Repo](https://github.com/yourusername/ismart-ott)
+🔗 [GitHub Repo](https://github.com/ShashidharV26/iSmart)
 
 ---
 
@@ -77,7 +77,7 @@ Android TV app with mixed local/online content — YouTube, movies, OTT Play int
 _Public Marathon Event Aggregator_  
 **Highlights:**  
 Coach-runner-organizer app with events, profiles, payments, feedback  
-📱 [Google Play](https://play.google.com/store/apps/details?id=your.package.name) | 💻 [GitHub Repo](https://github.com/yourusername/marathon-hub)
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.jumpstart.marathonhub&pcampaignid=web_share) | 💻 [GitHub Repo](https://github.com/ShashidharV26/Marathon-Hub)
 
 ---
 
@@ -85,7 +85,7 @@ Coach-runner-organizer app with events, profiles, payments, feedback
 _Internal-use app for HR, attendance, asset management_  
 **Highlights:**  
 Image-based attendance, location-aware uploads to **AWS**, device diagnostics  
-🔗 [GitHub Repo](https://github.com/yourusername/office-management)
+📱 [Google Play](https://play.google.com/store/apps/details?id=com.touringtalkies.contentupdate&pcampaignid=web_share) | 💻 [GitHub Repo](https://github.com/ShashidharV26/Office-Management)
 
 ---
 
@@ -103,7 +103,8 @@ Image-based attendance, location-aware uploads to **AWS**, device diagnostics
 
 - 🎓 B.E. Civil Engineering – BMS College of Engineering (8.02 CGPA)  
 - 🏫 PUC – RVSR PU College (PCMB)  
-- 🧑‍🏫 **Certified Java Full Stack Developer** – JSpiders, Basavanagudi  
+- 🧑‍🏫 **Certified Java Full Stack Developer** – JSpiders, Basavanagudi
+  [Certificate](https://github.com/ShashidharV26/Certificate/blob/main/Shashidhar%20A13_3.png)
 
 ---
 
@@ -124,7 +125,7 @@ Image-based attendance, location-aware uploads to **AWS**, device diagnostics
 <p align="left">
   <a href="mailto:shashidhar.vshashi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shashidhar-android-developer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://github.com/yourusername](https://github.com/ShashidharV26)"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+  <a href="[https://github.com/ShashidharV26](https://github.com/ShashidharV26)"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
