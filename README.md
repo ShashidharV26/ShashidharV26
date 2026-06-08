@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashidhar</h1>
-<h3 align="center">🚀 Android Developer | 2 Years Experience | Jetpack Compose | Kotlin & Java</h3>
+<h3 align="center">🚀 Android Developer | 3 Years Experience | Jetpack Compose | Kotlin & Java</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=3ECF8E&width=500&center=true&lines=Android+Developer;Kotlin+%7C+Java+%7C+Jetpack+Compose;MVVM+Architecture+Enthusiast;Firebase+%7C+AWS+%7C+Socket.IO+Expert;Problem+Solver+%7C+Team+Player" alt="Typing SVG" />
