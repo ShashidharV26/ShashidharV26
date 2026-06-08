@@ -16,7 +16,7 @@
 - 🌐 Deployed apps to **Google Play Store**, and optimized crash rate by **45%**  
 - 📷 Implemented **live screen mirroring**, **video uploads to AWS S3**, and **image-based attendance systems**  
 - 💬 Ask me about **Android TV**, **background services**, or anything Android-related  
-- 📫 Reach me at: **shashidhar.vshashi@gmail.com**
+- 📫 Reach me at: **shashidhar.vshashi26@gmail.com**
 
 ---
 
